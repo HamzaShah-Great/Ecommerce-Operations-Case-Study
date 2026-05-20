@@ -19,11 +19,24 @@ Financial close took 8–10 hours monthly, done manually.
 Full per-SKU margin visibility achieved for the first time.
 Monthly close reduced from 8–10 hours to under 30 minutes.
 
+
+## Skills Demonstrated
+| Category | Skills |
+|----------|--------|
+| Technical | Python, pandas, openpyxl, Data Pipeline Design |
+| Financial | P&L, COGS Analysis, Margin Calculation, Reconciliation |
+| Operational | Shopify Backend, Order Operations, Fulfillment |
+| Analytical | SKU Profitability, Break-Even Analysis |
+
 ## Related Projects
 - [Shopify Financial Dashboard (Python)](https://github.com/HamzaShah-Great/Shopify-Financial-Pipeline.git)
 - [German SME Bookkeeping Template SKR03](https://github.com/HamzaShah-Great/German-SME-Bookkeeping-Template.git)
 
+
 ## About
-Built by Syed Hamza Shah
+Built by **Syed Hamza Shah**  
+
 Finance & Automation VA | Shopify Operations | Python | SKR03
 Available for remote freelance engagements.
+
+**GitHub:** github.com/HamzaShah-Great
